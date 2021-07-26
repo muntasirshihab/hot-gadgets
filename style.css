@@ -1,0 +1,43 @@
+.container{
+    margin-bottom: 80px;
+}
+.orange{
+    color: orange;
+}
+.card{
+    text-align: center;
+    border: none;
+    box-shadow: 3px 3px 10px gray;
+}
+.card-text{
+    color: grey;
+}
+.price{
+    padding-bottom: 15px;
+}
+#cat{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-color: orange;
+}
+.abc{
+    box-shadow: 2px 2px 5px gray;
+    text-align: center;
+    padding: 15px 35px;
+}
+.bottom img{
+    width: 100%;
+}
+.bottom h4{
+    margin-top: 10px;
+}
+.bgi{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.bgi2{
+    background-image: url(images/bg-2.png);
+    background-repeat: no-repeat;
+}
