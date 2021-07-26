@@ -19,6 +19,7 @@
     text-align: center;
     text-decoration-line: underline;
     text-decoration-color: orange;
+    text-decoration-style: double;
 }
 .abc{
     box-shadow: 2px 2px 5px gray;
